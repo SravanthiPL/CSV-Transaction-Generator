@@ -1,2 +1,4 @@
 # CSV-Transaction-Generator
-This module extracts all CSV transactions when a CSV file URL with multiple miscellaneous transaction formats is input. This module is useful in processing Electronic data interchange files of CSV format.
+Extract all CSV transactions when a CSV file URL is given.
+ 1.Useful in processing Electronic data interchange files of CSV format.
+ 2.Eliminates boiler plate,complex logic for parsing CSV,extracting transaction data of variable length and types with different    transaction identifiers in same file.
