@@ -12,9 +12,7 @@ Extract all CSV transactions when a CSV file URL is given.
 ## Documentation
   For example consider the following CSV file which is of type CFR and has one CFRCancellation(T06) transactions,two
   CFRConfirmationAccept(S07) transactions.
-  [awesome link](https://github.com/akullpp/awesome-java)
   
-   
 ```
 "A00","101","CFR","20160420","113426",3
 "S07",11111,2,1183344,"FFK-331",20160420,"FIRM","TRAN","M",1700,170,1700,170,1500,445,113,123456.78,123456.78,123456.78,123456.78,"EX1","LD4",34,"DMA",1,"Y","Mr Oliver Cromwell","Mr Oliver Cromwell",102,"Y",20160420,093927,"D","Y"
@@ -118,3 +116,4 @@ ediTransactionType=CFR_CANCELLATION]
 			Similarly,update for other transaction types
     
   
+
